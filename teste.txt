@@ -1,1 +1,2 @@
-esse é um teste
+esse é um teste,
+essa é a segunda linha do meu teste.txt
